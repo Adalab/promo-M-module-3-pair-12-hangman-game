@@ -1,5 +1,13 @@
 // Fichero src/components/App.js
-import '../styles/App.scss';
+import '../styles/_app.scss';
+import '../styles/_dummy.scss';
+import '../styles/_footer.scss';
+import '../styles/_form.scss';
+import '../styles/_header.scss';
+import '../styles/_instructions.scss';
+import '../styles/_letters.scss';
+import '../styles/_loading.scss';
+import '../images/blackboard.jpg';
 
 function App() {
 	return (
